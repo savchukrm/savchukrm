@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
-    
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250px"/>
 </div>
 <div id="badges"  align="center" >
    <a href="https://www.linkedin.com/in/rymma-savchuk-54a8a3250/" target="_blank">
