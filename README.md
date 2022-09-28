@@ -13,6 +13,10 @@
 <div>
 :woman_technologist: About Me :
 I'm a beginning Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+</br>
+I’m interested in getting a Front-end Developer job.
+</br>
+Currently learning JavaScript and React.js
 </div>
 <br/>
 :hammer_and_wrench: Languages and Tools :
