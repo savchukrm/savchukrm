@@ -32,6 +32,6 @@ Currently learning JavaScript and React.js
 </br>
 :fire: My Stats :
 <div> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savchukrm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" title="Top Langs" alt="Top Langs" width="300" height="200"/>&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savchukrm&layout=compact&theme=vision-friendly-dark")](https://github.com/anuraghazra/github-readme-stats" title="Top Langs" alt="Top Langs" width="300" height="200"/>&nbsp;
 </div>
 
