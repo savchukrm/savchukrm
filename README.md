@@ -29,9 +29,5 @@ Currently learning JavaScript and React.js
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-</br>
-:fire: My Stats :
-<div> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savchukrm&layout=compact&theme=vision-friendly-dark")](https://github.com/anuraghazra/github-readme-stats" title="Top Langs" alt="Top Langs" width="300" height="200"/>&nbsp;
-</div>
+
 
