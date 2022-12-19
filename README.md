@@ -30,5 +30,5 @@ Currently learning JavaScript,TypeScript,React.js,Redux-Toolkit.
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savchukrm&layout=compact&theme=vision-friendly-dark"/>
+
 
