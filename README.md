@@ -10,7 +10,7 @@ I'm a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </br>
 I’m interested in getting a Front-end Developer job.
 </br>
-Currently learning JavaScript,TypeScript,React.js,Redux-Toolkit.
+Currently learning JavaScript,TypeScript,React.js,React Native,Redux-Toolkit.
 </div>
 <br/>
 :hammer_and_wrench: Languages and Tools :
