@@ -8,8 +8,6 @@
 :woman_technologist: About Me :
 I'm a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 </br>
-I’m interested in getting a Front-end Developer job.
-</br>
 Currently learning JavaScript,TypeScript,React.js,React Native,Redux-Toolkit.
 </div>
 <br/>
